@@ -7,12 +7,12 @@ A simple script for easy deployment of production-ready servers.
   `---' `-^ `-^ `-' `---' `-^ '   |  `-' '  
                                   '          
 ```
-## Welcome to SudoSurfer!
-It's a very simple shell script that automates the process of setting up your servers for production use. 
+## What is it?
+SudoSurfer is a very simple shell script that automates the process of setting up your servers for production use. 
 
 ---
 
-### Install & Run
+### Use SudoSurfer
 - Apply correct permissions to surf.sh file:
   ```bash
   chmod +x surf.sh
