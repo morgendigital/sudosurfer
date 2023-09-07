@@ -1,8 +1,4 @@
-Here's an improved version of the README:
-
----
-
-# What is SudoSurfer?
+# SudoSurfer
 An easy to use shell script sets up your server for production use with just one simple command:
 ```bash
 ./surf.sh
@@ -15,9 +11,13 @@ SudoSurfer takes care of basic things like setting up a Web Server, Firewall and
 If you want to make advanced configurations, 
 
 ### System Support
-| System        | Supported |
-|---------------|-----------|
-| Linux (64 Bit)| Yes       |
+| System         | Support                                               |
+|----------------|-------------------------------------------------------|
+| Linux (64 Bit) | ✅ Yes                                               |
+| Linux (ARM64)  | ✅ Yes                                               |
+| Windows 10, 11 | In progress                                          |
+| Mac OSX        | In progress                                          |
+
 
 ### How to use
 | Feature       | Command       | Flags                                  |
