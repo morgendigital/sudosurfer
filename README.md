@@ -1,21 +1,24 @@
 # SudoSurfer
 Make your server production-ready with one simple command:
 ```
-git clone https://github.com/morgendigital/sudosurfer && chmod +x ./sudosurfer/surf.sh && ./sudosurfer/surf.sh
+chmod +x ./surf.sh && ./surf.sh
 ```
 ## What is it?
 SudoSurfer is a very simple shell script that automates the process of setting up your servers for production use. 
 
----
-
-### Use SudoSurfer
-- Apply correct permissions to surf.sh file:
-  ```bash
-  chmod +x surf.sh
+### How to use?
+- Clone our repository:
+```shell
+git clone https://github.com/morgendigital/sudosurfer
+```
+- Make surf.sh executable:
+```shell
+chmod +x surf.sh
+```
 Run surf.sh:
-bash
-Copy code
+```bash
 ./surf.sh
+```
 Documentation
 Learn how to use SudoSurfer:
 Visit our documentation
