@@ -1,6 +1,6 @@
 # SudoSurfer
 A simple script for easy deployment of production-ready servers.
-```bash
+```shell
  .---.       .     .---.                    
  \___  . . ,-| ,-. \___  . . ,-. ," ,-. ,-.
       \ | | | | | |     \ | | |   |- |-' |  
