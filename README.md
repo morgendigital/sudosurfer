@@ -2,20 +2,29 @@ Here's an improved version of the README:
 
 ---
 
-# SudoSurfer
-Easily set up your server for production with just one command:
+# What is SudoSurfer?
+An easy to use shell script sets up your server for production use with just one simple command:
 ```bash
 ./surf.sh
 ```
 
 ## Overview
-**SudoSurfer** is a streamlined shell script that automates the process of getting your servers production-ready.
+**SudoSurfer** aims to fully automate the process of getting your servers production-ready.
+SudoSurfer takes care of basic things like setting up a Web Server, Firewall and 
+
+If you want to make advanced configurations, 
 
 ### System Support
 | System        | Supported |
 |---------------|-----------|
 | Linux (64 Bit)| Yes       |
 
+### How to use
+| Feature       | Command       |
+|---------------|---------------|
+| USER MANAGEMENT |-|
+| Add users     | add user NAME |
+| Give sudo ri
 ## Getting Started
 
 1. Clone our repository:
