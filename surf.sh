@@ -1,4 +1,43 @@
 #!/bin/bash
+# 
+#  .---.       .     .---.                    
+#  \___  . . ,-| ,-. \___  . . ,-. ," ,-. ,-. 
+#      \ | | | | | |     \ | | |   |- |-' |   
+#  `---' `-^ `-^ `-' `---' `-^ '   |  `-' '   
+#                                  '          
+#  Welcome to SudoSurfer!
+#  It's a very simple simple shell script that automates the process of setting up your servers for production use. 
+#  
+# ---------------------
+# --- Install & Run ---
+# ---------------------
+#  Apply correct permissions to surf.sh file:
+#     chmod +x surf.sh
+#  Run surf.sh:
+#     ./surf.sh
+#
+# ---------------------
+# --- Documentation ---
+# ---------------------
+#  Learn how to use SudoSurfer:
+#      Visit https://docs.sudosurfer.com
+# 
+# ---------------------
+# --- Notes & Infos ---
+# ---------------------
+#  Disclaimer:
+#  This script is still alpha and contains bugs.
+#  Please don't use it without fully understanding it.
+#  Contributions are welcome! :)
+#  
+# ---------------------
+# --- About Author ----
+# ---------------------
+#  Ivan Dukic | CTO & Solutions Architect at Morgendigital
+#  We craft apps and digital experiences for businesses. 
+#  Learn more on www.morgendigital.com
+# 
+# ---------------------
 
 show_help_for_add_user() {
     echo "Add User"
