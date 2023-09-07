@@ -1,12 +1,12 @@
 # SudoSurfer
 A simple script for easy deployment of production-ready servers.
-
-# .---.       .     .---.                    
-# \___  . . ,-| ,-. \___  . . ,-. ," ,-. ,-.
-#      \ | | | | | |     \ | | |   |- |-' |  
-#  `---' `-^ `-^ `-' `---' `-^ '   |  `-' '  
-#                                  '          
-
+```
+ .---.       .     .---.                    
+ \___  . . ,-| ,-. \___  . . ,-. ," ,-. ,-.
+      \ | | | | | |     \ | | |   |- |-' |  
+  `---' `-^ `-^ `-' `---' `-^ '   |  `-' '  
+                                  '          
+```
 ## Welcome to SudoSurfer!
 It's a very simple shell script that automates the process of setting up your servers for production use. 
 
