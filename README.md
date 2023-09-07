@@ -1,12 +1,15 @@
-# SudoSurfer
+# 🌊 Sudo Surfer
 An easy to use shell script sets up your server for production use with just one simple command:
 ```bash
 ./surf.sh
 ```
 
 ## Overview
-**SudoSurfer** aims to fully automate the process of getting your servers production-ready.
-SudoSurfer takes care of basic things like setting up a Web Server, Firewall and 
+**🌊 Sudo Surfer** aims to automate the process of getting your servers production-ready.
+It applies custom optimized :
+- Web Server | Securely deploy your applications to the public.
+- Firewall   | Setup and configure a robust firewall based on ufw.
+-  
 
 If you want to make advanced configurations, 
 
