@@ -52,7 +52,3 @@ For detailed information on how to use **SudoSurfer**, [visit our documentation]
 **Ivan Dukic**  
 CTO & Solutions Architect at Morgendigital  
 We specialize in crafting digital experiences and applications tailored for businesses. [Discover more about us on our website](#).
-
---- 
-
-(Note: The placeholder `#` in the links means that the actual links should be placed there when available.)
