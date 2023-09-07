@@ -20,11 +20,11 @@ If you want to make advanced configurations,
 | Linux (64 Bit)| Yes       |
 
 ### How to use
-| Feature       | Command       |
-|---------------|---------------|
-| USER MANAGEMENT |-|
-| Add users     | add user NAME |
-| Give sudo ri
+| Feature       | Command       | Flags                                  |
+|---------------|---------------|----------------------------------------|
+| Add User      | add user NAME | --sudo (add user to sudo group)        |
+| ...           |               |                                        |
+
 ## Getting Started
 
 1. Clone our repository:
