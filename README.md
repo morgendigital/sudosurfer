@@ -1,12 +1,7 @@
 # SudoSurfer
-A simple script for easy deployment of production-ready servers.
-```shell
- .---.       .     .---.                    
- \___  . . ,-| ,-. \___  . . ,-. ," ,-. ,-.
-      \ | | | | | |     \ | | |   |- |-' |  
-  `---' `-^ `-^ `-' `---' `-^ '   |  `-' '  
-                                  '          
-```
+Easy deployment of production-ready servers with just one command.
+`git clone https://github.com/morgendigital/sudosurfer && ./surf.sh`
+
 ## What is it?
 SudoSurfer is a very simple shell script that automates the process of setting up your servers for production use. 
 
