@@ -1,4 +1,8 @@
 # 🌊 Sudo Surfer
+
+# -----------------
+# WORK IN PROGRESS
+# -----------------
 An easy to use shell script sets up your server for production use with just one simple command:
 ```bash
 ./surf.sh
