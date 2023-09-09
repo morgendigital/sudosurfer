@@ -1,19 +1,15 @@
 ```
-___________
-\         /
- \       /
-  \     /
-   \   /
-     .
-    ___
- /       \
- |       |
- \       /
-   ^^^^^
-
+ __          __        _       _          _____                                   
+ \ \        / /       | |     (_)        |  __ \                                  
+  \ \  /\  / /__  _ __| | __   _ _ __    | |__) | __ ___   __ _ _ __ ___  ___ ___ 
+   \ \/  \/ / _ \| '__| |/ /  | | '_ \   |  ___/ '__/ _ \ / _` | '__/ _ \/ __/ __|
+    \  /\  / (_) | |  |   <   | | | | |  | |   | | | (_) | (_| | | |  __/\__ \__ \
+     \/  \/ \___/|_|  |_|\_\  |_|_| |_|  |_|   |_|  \___/ \__, |_|  \___||___/___/
+                                                           __/ |                  
+                                                          |___/                   
 ```
-# This repo is WORK IN PROGRESS!
-Ignore it until this message is removed.
+# WIP Warning
+This repo is work-in-progress and currently not usable on your machine. Give us ~two weeks to make it usable. We will remove this message when the repository is ready to be used.
     
 # 🌊 Sudo Surfer
 An easy to use shell script sets up your server for production use with just one simple command:
