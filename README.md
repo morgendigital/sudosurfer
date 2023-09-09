@@ -1,7 +1,7 @@
 # 🌊 Sudo Surfer
 
 # -----------------
-# WORK IN PROGRESS
+# This repo is WORK IN PROGRESS - ignore it until this message is removed.
 # -----------------
 An easy to use shell script sets up your server for production use with just one simple command:
 ```bash
