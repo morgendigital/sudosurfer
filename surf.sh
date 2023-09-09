@@ -6,10 +6,14 @@
 #  `---' `-^ `-^ `-' `---' `-^ '   |  `-' '   
 #                                  '          
 #  Welcome to SudoSurfer!
-#  It's a very simple simple shell script that automates the process of setting up your servers for production use. 
+#  This script helps you setting up your servers for production use.
+#
+#  H:
+#  surf.sh | This is your starting point for using SudoSurfer. Running this script starts SudoSurfer and allows you to control it 
+#  
 #  
 # ---------------------
-# --- Install & Run ---
+# ---  How to use   ---
 # ---------------------
 #  Apply correct permissions to surf.sh file:
 #     chmod +x surf.sh
